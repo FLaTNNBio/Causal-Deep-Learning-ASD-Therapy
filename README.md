@@ -70,13 +70,12 @@ Le simulazioni hanno evidenziato un ATE prossimo alla neutralità ($-0.016$ per 
 
 - **Stima del CATE:** Identificazione dei profili clinici ottimali per la terapia robotica (Medicina di Precisione).
 
-- **Analisi Longitudinale:** Valutazione della persistenza dell'effetto causale su sessioni multiple per escludere l'effetto "novità".
-
 
 
 ---
 
 **Autore:** Malafronte Sabato  
 Università degli Studi di Salerno
+
 
 
