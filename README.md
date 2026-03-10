@@ -10,7 +10,7 @@
 
 
 
-## 🎯 Goal del Progetto
+## 🎯 Obiettivo del Progetto
 
 L'obiettivo principale è stimare l'**effetto causale medio (ATE)** dell'intervento assistito da robot (RET) rispetto alla terapia classica (SHT) sugli outcome terapeutici di bambini con ASD. 
 
@@ -76,6 +76,7 @@ Le simulazioni hanno evidenziato un ATE prossimo alla neutralità ($-0.016$ per 
 
 **Autore:** Malafronte Sabato  
 Università degli Studi di Salerno
+
 
 
 
