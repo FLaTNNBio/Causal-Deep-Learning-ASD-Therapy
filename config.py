@@ -1,0 +1,1 @@
+DATA_PATH = r"E:\0_PROGETTO_SF4B\dataset"
