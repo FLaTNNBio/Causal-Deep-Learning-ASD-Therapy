@@ -35,6 +35,13 @@ Il dataset DREAM (Development of Robot-Enhanced therapy for children with Autism
 - **Covariate considerate:** Età, genere, punteggio clinico ADOS.
 
 
+### 📥 Come ottenere il Dataset
+
+Per riprodurre l'analisi:
+1. **Download:** Scarica i dati ufficiali dal seguente link: [https://researchdata.se/en/catalogue/dataset/snd1156-1/1]
+2. **Posizionamento:** Estrai i file e posiziona il file CSV/Excel nella cartella `/data` della root di questo progetto. Modifica il file 'config.py' inserendo la path corretta del tuo dataset.
+3. **Formato:** Assicurati che il file mantenga la struttura originale con le colonne relative a `Treatment` (RET/SHT), `Age`, `Gender` e `ADOS`.
+
 
 ## 🧠 Metodologia e Modelli
 
@@ -76,6 +83,7 @@ Le simulazioni hanno evidenziato un ATE prossimo alla neutralità ($-0.016$ per 
 
 **Autore:** Malafronte Sabato  
 Università degli Studi di Salerno
+
 
 
 
