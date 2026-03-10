@@ -16,7 +16,7 @@ L'obiettivo principale è stimare l'**effetto causale medio (ATE)** dell'interve
 
 
 
-La sfida centrale risiede nel rispondere alla domanda controffattuale:  **"Cosa sarebbe successo agli stessi bambini se non avessero usato i robot?"**. Poiché questa quantità non è osservabile direttamente, il progetto utilizza l'inferenza causale per simulare scenari non avvenuti e misurare il reale impatto del robot sull'attenzione del paziente (*AttentionScore*).
+La sfida centrale risiede nel rispondere alla domanda controfattuale:  **"Cosa sarebbe successo agli stessi bambini se non avessero usato i robot?"**. Poiché questa quantità non è osservabile direttamente, il progetto utilizza l'inferenza causale per simulare scenari non avvenuti e misurare il reale impatto del robot sull'attenzione del paziente (*AttentionScore*).
 
 
 
@@ -83,6 +83,7 @@ Le simulazioni hanno evidenziato un ATE prossimo alla neutralità ($-0.016$ per 
 
 **Autore:** Malafronte Sabato  
 Università degli Studi di Salerno
+
 
 
 
